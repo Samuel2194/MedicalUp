@@ -1,0 +1,90 @@
+html{
+    background: rgb(239,255,245);
+    background: linear-gradient(180deg, rgba(239,255,245,1) 0%, rgba(239,255,245,0) 100%);
+    height: 100%;
+}
+button{
+    min-width: 200px;
+}
+
+h1{
+    font-size: 55px;
+    margin-bottom: 60px;
+}
+
+h2{
+    font-size: 30px
+}
+.btn1{
+    background: rgb(185,253,212);
+    background: linear-gradient(180deg, rgba(185,253,212,1) 0%, rgba(105,212,148,1) 160%);
+    margin: 5px;
+    border-radius: 15px;
+        font-size: 20px;
+}
+.btn2{
+    background: rgb(185,253,212);
+    background: linear-gradient(180deg, rgb(46 255 129) 0%, rgb(3 80 34) 160%);
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.content{
+    text-align: center;
+}
+.btnContent{
+    width: 100%;
+}
+.btnContent2{
+    width: 100%;
+    text-align: center;
+}
+.content2{
+    background: #ffffff;
+    width: 492px;
+    margin: auto;
+}
+form{
+    text-align: left;
+}
+
+.formControl{
+    background: rgb(185,253,212);
+    background: linear-gradient(180deg, rgb(185 253 212 / 35%) -2%, rgba(146,254,189,1) 57%);
+    border-radius: 26px;
+    padding: 0 0 0 15px;
+    margin: 7px;
+}
+
+.lb{
+    width: 25%;
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.txtInput{
+    height: 30px;
+    width: 74%;
+    border: none;
+    background: transparent;
+    font-size: 20px;
+}
+
+.advertencia{
+    font-size: 23px;
+    background: #fbff00;
+    padding: 5px;
+}
+
+.informacion{
+    font-size: 23px;
+    background: #84c6ff;
+    padding: 5px; 
+}
+
+.error{
+    font-size: 23px;
+    background: #ff0000;
+    padding: 5px;
+}
+
